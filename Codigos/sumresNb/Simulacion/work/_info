@@ -1,0 +1,148 @@
+m255
+K3
+13
+cModel Technology
+dD:\CESE\4B2025\FPGA - Circuitos Lógicos Programables\Codigos\sumNb\Simulacion
+Esum1b
+Z0 w1757533434
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dD:\CESE\4B2025\FPGA - Circuitos Lógicos Programables\Codigos\sumresNb\Simulacion
+Z4 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd
+Z5 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd
+l0
+L6
+Vk@[:YVG9JEeG=Df;L;QDT1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1758052484.807000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd|
+Z9 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 =ZLTUVek0f4`KQ5>hJ=P60
+!i10b 1
+Asum1b_arq
+R1
+R2
+Z12 DEx4 work 5 sum1b 0 22 k@[:YVG9JEeG=Df;L;QDT1
+l19
+L17
+V>9SCmAfkiGN;WKW3S7OBJ2
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 BM>X@``>23^VEMVkSN7L80
+!i10b 1
+Esumnb
+Z13 w1757977965
+R1
+R2
+R3
+Z14 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumNb/Fuentes/sumNb.vhd
+Z15 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumNb/Fuentes/sumNb.vhd
+l0
+L6
+Vfe9cDloNi`a1edjn^KC8Z0
+R6
+32
+Z16 !s108 1758052484.851000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumNb/Fuentes/sumNb.vhd|
+Z18 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumNb/Fuentes/sumNb.vhd|
+R10
+R11
+!s100 Ae?QKEi:3]a@Q86Zjd>i50
+!i10b 1
+Asumnb_arq
+R12
+R1
+R2
+Z19 DEx4 work 5 sumnb 0 22 fe9cDloNi`a1edjn^KC8Z0
+l23
+L20
+VdaZLC9Q8iIm8V5MHTc7OA3
+R6
+32
+R16
+R17
+R18
+R10
+R11
+!s100 FFjh11PkaLFC_^75fVmX60
+!i10b 1
+Esumresnb
+Z20 w1758052481
+R1
+R2
+R3
+Z21 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb.vhd
+Z22 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb.vhd
+l0
+L6
+VFLT5NNQ7B[4T>EoHP:N_D0
+R6
+32
+Z23 !s108 1758052484.892000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb.vhd|
+Z25 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb.vhd|
+R10
+R11
+!s100 T:F?UZ1WF]_2Ek<gJ71z20
+!i10b 1
+Asumresnb_arq
+R19
+R1
+R2
+Z26 DEx4 work 8 sumresnb 0 22 FLT5NNQ7B[4T>EoHP:N_D0
+l24
+L21
+VA@W1_Hz0?N^JYOQl[;IZ=3
+!s100 eHiB2nYiG^:_TKX;KfF@g3
+R6
+32
+R23
+R24
+R25
+R10
+R11
+!i10b 1
+Esumresnb_tb
+Z27 w1758052343
+R1
+R2
+R3
+Z28 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb_tb.vhd
+Z29 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb_tb.vhd
+l0
+L6
+V<jdBObX;n0US_b`Y5EE1o2
+!s100 m7SX>H@FeDXcCUJfD]z6X3
+R6
+32
+!i10b 1
+Z30 !s108 1758052484.933000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb_tb.vhd|
+Z32 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumresNb/Fuentes/sumresNb_tb.vhd|
+R10
+R11
+Asumresnb_tb_arq
+R26
+R1
+R2
+Z33 DEx4 work 11 sumresnb_tb 0 22 <jdBObX;n0US_b`Y5EE1o2
+l22
+L10
+Z34 Vz;Z<7[WAeSia?@IHLefjK0
+Z35 !s100 WAQ9?YhZnlhgmcHdBf7L51
+R6
+32
+!i10b 1
+R30
+R31
+R32
+R10
+R11

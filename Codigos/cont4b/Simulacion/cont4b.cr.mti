@@ -1,0 +1,45 @@
+{D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumNb/Fuentes/sumNb.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sumNb/Fuentes/sumNb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sumNb
+-- Compiling architecture sumNb_arq of sumNb
+-- Loading entity sum1b
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/cont4b/Fuentes/cont4b.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/cont4b/Fuentes/cont4b.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cont4b
+-- Compiling architecture cont4b_arq of cont4b
+-- Loading entity regNb
+-- Loading entity sumNb
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regNb
+-- Compiling architecture regNb_arq of regNb
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum1b
+-- Compiling architecture sum1b_arq of sum1b
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/cont4b/Fuentes/cont4b_tb.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/cont4b/Fuentes/cont4b_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cont4b_tb
+-- Compiling architecture cont4b_tb_arq of cont4b_tb
+-- Loading entity cont4b
+
+} {} {}}

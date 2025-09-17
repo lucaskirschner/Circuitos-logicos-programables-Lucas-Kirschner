@@ -1,0 +1,76 @@
+m255
+K3
+13
+cModel Technology
+dD:\CESE\4B2025\FPGA - Circuitos Lógicos Programables\Codigos\sum2b\Simulacion
+Effd
+Z0 w1757974001
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dD:\CESE\4B2025\FPGA - Circuitos Lógicos Programables\Codigos\ffd\Simulacion
+Z4 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd.vhd
+Z5 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd.vhd
+l0
+L6
+VJlKGT[>djB:i9aDC=2b;N1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1757974030.770000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd.vhd|
+Z9 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 zmUVVo7UXhB_g2>1:90hH1
+!i10b 1
+Affd_arq
+R1
+R2
+Z12 DEx4 work 3 ffd 0 22 JlKGT[>djB:i9aDC=2b;N1
+l20
+L18
+VIomQURjMB[SX10WSPCzm61
+!s100 A9DhBB<U0SZFX@U<k0f`G0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!i10b 1
+Effd_tb
+Z13 w1757974020
+R1
+R2
+R3
+Z14 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd_tb.vhd
+Z15 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd_tb.vhd
+l0
+L6
+ViF^>d2IA5;HKk;Y;Wz:mF3
+!s100 8L[oRKcS>?YlHkZK<B9<;0
+R6
+32
+!i10b 1
+Z16 !s108 1757974030.817000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd_tb.vhd|
+Z18 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/ffd/Fuentes/ffd_tb.vhd|
+R10
+R11
+Affd_tb_arq
+R12
+R1
+R2
+Z19 DEx4 work 6 ffd_tb 0 22 iF^>d2IA5;HKk;Y;Wz:mF3
+l18
+L10
+Z20 VLDgnXX]fzV8LQ2mLQFUc[0
+Z21 !s100 8GUZAX00B2=87hW0TFE`42
+R6
+32
+!i10b 1
+R16
+R17
+R18
+R10
+R11

@@ -1,0 +1,27 @@
+{D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum2b/Fuentes/sum2b.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum2b/Fuentes/sum2b.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum2b
+-- Compiling architecture sum2b_arq of sum2b
+-- Loading entity sum1b
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum2b/Fuentes/sum2b_tb.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum2b/Fuentes/sum2b_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum2b_tb
+-- Compiling architecture sum2b_tb_arq of sum2b_tb
+-- Loading entity sum2b
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum1b
+-- Compiling architecture sum1b_arq of sum1b
+
+} {} {}}
