@@ -1,0 +1,61 @@
+m255
+K3
+13
+cModel Technology
+dD:\CESE\4B2025\FPGA - Circuitos Lógicos Programables\Codigos\contNb_ModM_lento\Simulacion
+Econt4b_tb
+w1758069464
+Z0 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z1 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z2 dD:\CESE\4B2025\FPGA - Circuitos Lógicos Programables\Codigos\contador_universal\Simulacion
+8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal_tb.vhd
+FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal_tb.vhd
+l0
+L6
+VEzioF8RFJ9<?jQfVPe<fQ1
+Z3 OV;C;10.1d;51
+32
+Z4 o-work work -2002 -explicit -O0
+Z5 tExplicit 1
+!s100 W`5DL8L3VGK_k[oU3V;m32
+!i10b 1
+!s108 1759703068.832000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal_tb.vhd|
+!s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal_tb.vhd|
+Econtador_universal
+Z6 w1759703067
+Z7 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z8 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+R1
+R2
+Z9 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal.vhd
+Z10 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal.vhd
+l0
+L7
+VK3kaTVQ8B@Bo73ZY<dYCi1
+!s100 nfG^M6@JJljSz<;5KVoGI2
+R3
+32
+!i10b 1
+Z11 !s108 1759703252.749000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal.vhd|
+Z13 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contador_universal/Fuentes/contador_universal.vhd|
+R4
+R5
+Acontador_universal_arq
+R7
+R8
+R1
+Z14 DEx4 work 18 contador_universal 0 22 K3kaTVQ8B@Bo73ZY<dYCi1
+l27
+L24
+Z15 VcfGbVeE3_o4[_m]L<aX<22
+Z16 !s100 JZ7CBN2FVi1aA;EZC3i5T1
+R3
+32
+!i10b 1
+R11
+R12
+R13
+R4
+R5

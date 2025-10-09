@@ -1,0 +1,47 @@
+{D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM_lento/Fuentes/contNb_ModM_lento.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM_lento/Fuentes/contNb_ModM_lento.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity contNb_ModM_lento
+-- Compiling architecture contNb_ModM_lento_arq of contNb_ModM_lento
+-- Loading package NUMERIC_STD
+-- Loading entity contNb_ModM
+-- Loading entity genEna
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM_lento/Fuentes/contNb_ModM_lento_tb.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM_lento/Fuentes/contNb_ModM_lento_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity contNb_ModM_lento_tb
+-- Compiling architecture contNb_ModM_lento_tb_arq of contNb_ModM_lento_tb
+-- Loading entity contNb_ModM_lento
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contNb_ModM
+-- Compiling architecture contNb_ModM_arq of contNb_ModM
+-- Loading entity regNb
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/genEna/Fuentes/genEna.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/genEna/Fuentes/genEna.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity genEna
+-- Compiling architecture genEna_arq of genEna
+
+} {} {}} {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd} {1 {vcom -work work -2002 -explicit {D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regNb
+-- Compiling architecture regNb_arq of regNb
+
+} {} {}}

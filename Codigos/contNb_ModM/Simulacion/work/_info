@@ -1,0 +1,134 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Econtnb_modm
+Z0 w1759678827
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\CESE\4B2025\FPGA - Circuitos Lógicos Programables\Codigos\contNb_ModM\Simulacion
+Z5 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM.vhd
+Z6 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM.vhd
+l0
+L7
+V7`3HQRdmlA4H_hEzWSj;J1
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1759680919.777000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM.vhd|
+Z10 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 NVo:Qj_O>:]4h2UJU<T5d2
+!i10b 1
+Acontnb_modm_arq
+Z13 DEx4 work 5 regnb 0 22 TEBJ@FV[izE1mBF:Va4Oc2
+R1
+R2
+R3
+Z14 DEx4 work 11 contnb_modm 0 22 7`3HQRdmlA4H_hEzWSj;J1
+l30
+L22
+VI4Rmh0jMz>Ac1ljdI4MCC3
+!s100 >W?cIiAd0^j@^TIT6OV3P1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Acontnb_modm_tb_arq
+R1
+R2
+R3
+R14
+Z15 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM_tb.vhd
+Z16 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM_tb.vhd
+l20
+L10
+VIDQogU:8<`KiRJ:1:;6^31
+R7
+32
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM_tb.vhd|
+R11
+R12
+Z18 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM_tb.vhd|
+!s108 1759679660.664000
+!s100 4d@gg=7L8JbEa`FSS4C`K3
+!i10b 1
+Econtnb_modm_tb
+Z19 w1759680918
+R2
+R3
+R4
+R15
+R16
+l0
+L6
+VBNNnY8ka4X[@Ybi]YSIio1
+!s100 9V7GfO>FJYOoML0ZknEE22
+R7
+32
+!i10b 1
+Z20 !s108 1759680919.823000
+R17
+Z21 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/contNb_ModM/Fuentes/contNb_ModM_tb.vhd|
+R11
+R12
+Acontnb_modm_tb_arq
+R1
+R14
+R2
+R3
+Z22 DEx4 work 14 contnb_modm_tb 0 22 BNNnY8ka4X[@Ybi]YSIio1
+l20
+L10
+VTkIRXed<767B9862aaiNO1
+!s100 BIS5_X5@[fm]Nz0B5BNZ40
+R7
+32
+!i10b 1
+R20
+R17
+R21
+R11
+R12
+Eregnb
+Z23 w1758062855
+R2
+R3
+R4
+Z24 8D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd
+Z25 FD:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd
+l0
+L6
+VTEBJ@FV[izE1mBF:Va4Oc2
+R7
+32
+Z26 !s108 1759680919.731000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd|
+Z28 !s107 D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/regNb/Fuentes/regNb.vhd|
+R11
+R12
+!s100 ?HS4[^nD3Je5EAazLOOKF2
+!i10b 1
+Aregnb_arq
+R2
+R3
+R13
+l24
+L22
+VM49A0B99j>JXekRH8KCnh1
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!s100 ?LC[zXSJh5jMP^45Q:B4l2
+!i10b 1

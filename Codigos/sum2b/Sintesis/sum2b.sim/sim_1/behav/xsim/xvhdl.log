@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum1b/Fuentes/sum1b.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sum1b
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum2b/Fuentes/sum2b.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sum2b
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CESE/4B2025/FPGA - Circuitos Lógicos Programables/Codigos/sum2b/Fuentes/sum2b_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sum2b_tb

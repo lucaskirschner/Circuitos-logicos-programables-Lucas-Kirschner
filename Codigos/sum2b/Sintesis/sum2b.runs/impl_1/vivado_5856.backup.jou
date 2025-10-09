@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Mon Oct  6 16:24:57 2025
+# Process ID: 5856
+# Current directory: D:/CESE/4B2025/FPGA - Circuitos Lgicos Programables/Codigos/sum2b/Sintesis/sum2b.runs/impl_1
+# Command line: vivado.exe -log sum2b.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sum2b.tcl -notrace
+# Log file: D:/CESE/4B2025/FPGA - Circuitos Lgicos Programables/Codigos/sum2b/Sintesis/sum2b.runs/impl_1/sum2b.vdi
+# Journal file: D:/CESE/4B2025/FPGA - Circuitos Lgicos Programables/Codigos/sum2b/Sintesis/sum2b.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source sum2b.tcl -notrace
