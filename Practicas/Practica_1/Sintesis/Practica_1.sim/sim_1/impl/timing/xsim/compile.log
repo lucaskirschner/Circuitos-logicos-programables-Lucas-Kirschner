@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CESE/4B2025/FPGA - Circuitos Logicos Programables/Practica_1/Sintesis/Practica_1.sim/sim_1/impl/timing/xsim/lab1_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab1
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CESE/4B2025/FPGA - Circuitos Logicos Programables/Practica_1/Sintesis/Practica_1.srcs/sim_1/imports/Fuentes/lab1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab1_tb
